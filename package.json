@@ -1,0 +1,17 @@
+{
+  "name": "n8n-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mysql2": "^3.14.1",
+    "n8n": "1.24.0"
+  }
+}
