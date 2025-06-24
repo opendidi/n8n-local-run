@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion:
+ * @version: 1.0.0
+ * @Author: htang
+ * @Date: 2025-06-24 16:18:30
+ * @LastEditors: htang
+ * @LastEditTime: 2025-06-24 16:53:10
+-->
 # n8n
 
 [![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/opendidi/pano/blob/main/LICENSE)
@@ -47,7 +55,7 @@
 - [N8N_CUSTOM_EXTENSIONS=E:/test2/n8n-nodes-wechat-offiaccount](https://github.com/opendidi/n8n-local-run/blob/main/.env#L13)
 
 - 项目启动后的界面
-- <img width="100%" align="center" src="./images/1750754072802.jpg" />
+#### <img width="100%" align="center" src="./images/1750754072802.jpg" />
 
 - 创建一个n8n数据库图片如下，数据表运行n8n会自动创建：
-- <img width="25%" align="center" src="./images/1750754940680.jpg" />
+#### <img width="25%" align="center" src="./images/1750754940680.jpg" />
