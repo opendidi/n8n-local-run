@@ -1,5 +1,8 @@
 # n8n
 
+[![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/opendidi/pano/blob/main/LICENSE)
+[![](https://img.shields.io/badge/node-20.18.1-brightgreen.svg)]()
+
 - 本地运行
 
 - 下载依赖 需要node版本 v20.18.1
