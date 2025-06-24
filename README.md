@@ -9,7 +9,7 @@
 ```
 
 
-- 启动项目
+- 启动项目,需要(n8n-nodes-wechat-offiaccount项目打包完成后运行)
 
 ```ssh
 > pnpm start
@@ -20,3 +20,25 @@
 ```ssh
 > http://localhost:5678
 ```
+
+- 克隆项目到本地
+
+```ssh
+> git clone https://github.com/other-blowsnow/n8n-nodes-wechat-offiaccount
+```
+
+- 安装依赖
+
+```ssh
+> pnpm install
+```
+
+- 打包项目
+
+```ssh
+> pnpm run build
+```
+
+- 配置项目路径
+
+- [N8N_CUSTOM_EXTENSIONS=E:/test2/n8n-nodes-wechat-offiaccount](https://github.com/opendidi/n8n-local-run/blob/main/.env#L13)
