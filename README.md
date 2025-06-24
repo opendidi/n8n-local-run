@@ -42,3 +42,6 @@
 - 配置项目路径
 
 - [N8N_CUSTOM_EXTENSIONS=E:/test2/n8n-nodes-wechat-offiaccount](https://github.com/opendidi/n8n-local-run/blob/main/.env#L13)
+
+- 项目启动后的界面
+<img width="100%" align="center" src="./images/1750754072802.jpg" />
