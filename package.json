@@ -12,6 +12,6 @@
   "description": "",
   "dependencies": {
     "mysql2": "^3.14.1",
-    "n8n": "1.24.0"
+    "n8n": "1.77.4"
   }
 }
