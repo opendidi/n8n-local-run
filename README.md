@@ -4,7 +4,7 @@
  * @Author: htang
  * @Date: 2025-06-24 16:18:30
  * @LastEditors: htang
- * @LastEditTime: 2025-06-24 16:53:10
+ * @LastEditTime: 2025-07-03 09:02:50
 -->
 # n8n
 
@@ -32,30 +32,12 @@
 > http://localhost:5678
 ```
 
-- 克隆项目到本地
-
-```ssh
-> git clone https://github.com/other-blowsnow/n8n-nodes-wechat-offiaccount
-```
-
-- 安装依赖
-
-```ssh
-> pnpm install
-```
-
-- 打包项目
-
-```ssh
-> pnpm run build
-```
-
-- 配置项目路径
-
-- [N8N_CUSTOM_EXTENSIONS=E:/test2/n8n-nodes-wechat-offiaccount](https://github.com/opendidi/n8n-local-run/blob/main/.env#L13)
-
 - 项目启动后的界面
 #### <img width="100%" align="center" src="./images/1750754072802.jpg" />
 
+- 按照插件
+#### <img width="100%" align="center" src="./images/1751504479742.jpg" />
+#### <img width="100%" align="center" src="./images/1751504532707.jpg" />
+
 - 创建一个n8n数据库图片如下，数据表运行n8n会自动创建：
-#### <img width="25%" align="center" src="./images/1750754940680.jpg" />
+#### <img width="100%" align="center" src="./images/1751504207001.jpg" />
